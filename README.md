@@ -6,4 +6,4 @@ I work on machine learning tools for scientific discovery. Together with many ot
 - [sbi](https://github.com/sbi-dev/sbi), a PyTorch toolbox for simulation-based Bayesian inference and
 - [Jaxley](http://github.com/jaxleyverse/jaxley), a differentiable simulator for biophysically detailed neuron models in JAX.
 
-You can follow me on [Twitter](https://x.com/deismic_) or [Google scholar](https://scholar.google.com/citations?user=Q24H-zYAAAAJ&hl=en&oi=ao).
+You can follow me on [Bluesky](https://bsky.app/profile/deismic.bsky.social), [Twitter](https://x.com/deismic_), or [Google scholar](https://scholar.google.com/citations?user=Q24H-zYAAAAJ&hl=en&oi=ao).
