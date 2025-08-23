@@ -1,6 +1,6 @@
 ## Hello, World!
 
-I am a PhD candidate at the [Max Planck International Research School for Intelligent Systems](https://imprs.is.mpg.de) and the [University of Tübingen](https://uni-tuebingen.de/en/). I am part of the [Machine Learning in Science lab](https://www.mackelab.org) led by Jakob Macke.
+I am a post-doctoral researcher at the Max Planck Institute for Biological Intelligence in Munich, Germany. I did my PhD in the [Machine Learning in Science lab](https://www.mackelab.org) led by Jakob Macke, and was a member of the [Max Planck International Research School for Intelligent Systems](https://imprs.is.mpg.de).
 
 I work on machine learning tools for scientific discovery. Together with many other amazing people, I am developer and maintainer of the following two toolboxes:  
 - [sbi](https://github.com/sbi-dev/sbi), a PyTorch toolbox for simulation-based Bayesian inference and
